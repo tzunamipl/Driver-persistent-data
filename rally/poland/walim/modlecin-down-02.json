@@ -1,0 +1,19 @@
+{
+ "stage": "poland/walim/modlecin-down-02",
+ "fingerprint": "b01dc8f65b0ccfc0",
+ "entries": [
+  {
+   "player": "4bd0d2e71eab0cf9",
+   "name": "dev_mode",
+   "vehicle": "gl",
+   "totalMs": 74109,
+   "splits": [
+    30610,
+    59911
+   ],
+   "penaltyMs": 0,
+   "at": "2026-10-22T12:12:21.025Z",
+   "version": "0.6.15"
+  }
+ ]
+}
