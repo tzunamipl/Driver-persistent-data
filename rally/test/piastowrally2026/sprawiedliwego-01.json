@@ -6,12 +6,12 @@
    "player": "4bd0d2e71eab0cf9",
    "name": "dev_mode",
    "vehicle": "gl",
-   "totalMs": 45944,
+   "totalMs": 35968,
    "splits": [
-    15632
+    15919
    ],
-   "penaltyMs": 10000,
-   "at": "2026-10-22T12:02:17.254Z",
+   "penaltyMs": 0,
+   "at": "2026-10-22T12:03:31.001Z",
    "version": "0.6.15"
   }
  ]
