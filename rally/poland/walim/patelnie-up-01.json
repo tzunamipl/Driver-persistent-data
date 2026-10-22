@@ -14,6 +14,19 @@
    "penaltyMs": 0,
    "at": "2026-10-22T12:08:43.734Z",
    "version": "0.6.15"
+  },
+  {
+   "player": "eeadc215f0d45e64",
+   "name": "KanakDom",
+   "vehicle": "gl",
+   "totalMs": 158650,
+   "splits": [
+    60164,
+    100059
+   ],
+   "penaltyMs": 0,
+   "at": "2026-10-22T20:10:05.041Z",
+   "version": "0.7.0"
   }
  ]
 }
