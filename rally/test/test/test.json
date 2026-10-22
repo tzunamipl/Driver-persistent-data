@@ -13,6 +13,18 @@
    "penaltyMs": 0,
    "at": "2026-10-22T11:41:18.811Z",
    "version": "0.6.13"
+  },
+  {
+   "player": "73e91fa15cac09b0",
+   "name": "Kanalizer",
+   "vehicle": "gc8",
+   "totalMs": 13938,
+   "splits": [
+    1456
+   ],
+   "penaltyMs": 10000,
+   "at": "2026-10-22T11:55:39.260Z",
+   "version": "0.6.15"
   }
  ]
 }
