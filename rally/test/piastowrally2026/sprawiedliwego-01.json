@@ -1,0 +1,18 @@
+{
+ "stage": "test/piastowrally2026/sprawiedliwego-01",
+ "fingerprint": "e7b016a7487d2b4f",
+ "entries": [
+  {
+   "player": "4bd0d2e71eab0cf9",
+   "name": "dev_mode",
+   "vehicle": "gl",
+   "totalMs": 45944,
+   "splits": [
+    15632
+   ],
+   "penaltyMs": 10000,
+   "at": "2026-10-22T12:02:17.254Z",
+   "version": "0.6.15"
+  }
+ ]
+}
