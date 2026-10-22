@@ -3,6 +3,18 @@
  "fingerprint": "8bf46c1b28c4113d",
  "entries": [
   {
+   "player": "73e91fa15cac09b0",
+   "name": "Kanalizer",
+   "vehicle": "rally",
+   "totalMs": 2646,
+   "splits": [
+    1355
+   ],
+   "penaltyMs": 0,
+   "at": "2026-10-22T11:59:45.670Z",
+   "version": "0.6.15"
+  },
+  {
    "player": "4bd0d2e71eab0cf9",
    "name": "dev_mode",
    "vehicle": "gc8",
