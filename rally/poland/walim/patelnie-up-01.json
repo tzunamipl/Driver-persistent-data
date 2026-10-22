@@ -1,0 +1,19 @@
+{
+ "stage": "poland/walim/patelnie-up-01",
+ "fingerprint": "04446348e6b22884",
+ "entries": [
+  {
+   "player": "4bd0d2e71eab0cf9",
+   "name": "dev_mode",
+   "vehicle": "gl",
+   "totalMs": 134456,
+   "splits": [
+    43729,
+    74893
+   ],
+   "penaltyMs": 0,
+   "at": "2026-10-22T12:08:43.734Z",
+   "version": "0.6.15"
+  }
+ ]
+}
