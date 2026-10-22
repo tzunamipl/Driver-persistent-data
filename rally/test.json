@@ -1,0 +1,18 @@
+{
+ "stage": "test",
+ "fingerprint": "25c68217ad2500b9",
+ "entries": [
+  {
+   "player": "4bd0d2e71eab0cf9",
+   "name": "dev_mode",
+   "vehicle": "gl",
+   "totalMs": 7538,
+   "splits": [
+    4185
+   ],
+   "penaltyMs": 0,
+   "at": "2026-10-22T11:11:49.709Z",
+   "version": "0.6.13"
+  }
+ ]
+}
