@@ -1,0 +1,19 @@
+{
+ "stage": "poland/walim/wiejska-down-03",
+ "fingerprint": "d35385f396af313d",
+ "entries": [
+  {
+   "player": "4bd0d2e71eab0cf9",
+   "name": "dev_mode",
+   "vehicle": "gl",
+   "totalMs": 122875,
+   "splits": [
+    30524,
+    74241
+   ],
+   "penaltyMs": 10000,
+   "at": "2026-10-22T13:14:27.868Z",
+   "version": "0.6.15"
+  }
+ ]
+}
