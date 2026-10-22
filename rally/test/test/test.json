@@ -1,0 +1,18 @@
+{
+ "stage": "test/test/test",
+ "fingerprint": "8bf46c1b28c4113d",
+ "entries": [
+  {
+   "player": "4bd0d2e71eab0cf9",
+   "name": "dev_mode",
+   "vehicle": "gc8",
+   "totalMs": 4994,
+   "splits": [
+    2605
+   ],
+   "penaltyMs": 0,
+   "at": "2026-10-22T11:41:18.811Z",
+   "version": "0.6.13"
+  }
+ ]
+}
