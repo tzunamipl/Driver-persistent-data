@@ -5,6 +5,19 @@
   {
    "player": "4bd0d2e71eab0cf9",
    "name": "dev_mode",
+   "vehicle": "impreza-22b",
+   "totalMs": 119307,
+   "splits": [
+    26451,
+    69777
+   ],
+   "penaltyMs": 10000,
+   "at": "2026-10-23T19:14:41.707Z",
+   "version": "0.7.1"
+  },
+  {
+   "player": "4bd0d2e71eab0cf9",
+   "name": "dev_mode",
    "vehicle": "gl",
    "totalMs": 122875,
    "splits": [
