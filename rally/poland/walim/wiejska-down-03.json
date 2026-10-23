@@ -14,6 +14,19 @@
    "penaltyMs": 10000,
    "at": "2026-10-22T13:14:27.868Z",
    "version": "0.6.15"
+  },
+  {
+   "player": "4bd0d2e71eab0cf9",
+   "name": "dev_mode",
+   "vehicle": "cinquecento",
+   "totalMs": 124627,
+   "splits": [
+    37159,
+    69251
+   ],
+   "penaltyMs": 0,
+   "at": "2026-10-23T18:44:42.387Z",
+   "version": "0.7.1"
   }
  ]
 }
