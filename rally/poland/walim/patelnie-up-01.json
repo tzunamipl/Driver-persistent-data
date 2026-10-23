@@ -16,6 +16,19 @@
    "version": "0.6.15"
   },
   {
+   "player": "4bd0d2e71eab0cf9",
+   "name": "dev_mode",
+   "vehicle": "impreza-22b",
+   "totalMs": 147766,
+   "splits": [
+    52375,
+    88155
+   ],
+   "penaltyMs": 0,
+   "at": "2026-10-23T19:08:38.644Z",
+   "version": "0.7.1"
+  },
+  {
    "player": "eeadc215f0d45e64",
    "name": "KanakDom",
    "vehicle": "gl",
