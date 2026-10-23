@@ -18,6 +18,19 @@
   {
    "player": "4bd0d2e71eab0cf9",
    "name": "dev_mode",
+   "vehicle": "impreza-22b",
+   "totalMs": 114977,
+   "splits": [
+    23212,
+    51008
+   ],
+   "penaltyMs": 0,
+   "at": "2026-10-23T19:11:32.040Z",
+   "version": "0.7.1"
+  },
+  {
+   "player": "4bd0d2e71eab0cf9",
+   "name": "dev_mode",
    "vehicle": "cinquecento",
    "totalMs": 118803,
    "splits": [
