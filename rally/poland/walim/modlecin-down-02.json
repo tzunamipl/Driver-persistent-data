@@ -42,6 +42,19 @@
    "version": "0.7.5"
   },
   {
+   "player": "73e91fa15cac09b0",
+   "name": "Kanalizer",
+   "vehicle": "gl",
+   "totalMs": 89041,
+   "splits": [
+    29768,
+    60176
+   ],
+   "penaltyMs": 0,
+   "at": "2026-10-24T19:50:54.201Z",
+   "version": "0.7.10"
+  },
+  {
    "player": "4bd0d2e71eab0cf9",
    "name": "dev_mode",
    "vehicle": "impreza-22b",
