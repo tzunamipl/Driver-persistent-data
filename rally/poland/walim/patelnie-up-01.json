@@ -68,6 +68,19 @@
    "version": "0.7.8"
   },
   {
+   "player": "73e91fa15cac09b0",
+   "name": "Kanalizer",
+   "vehicle": "evo6",
+   "totalMs": 233944,
+   "splits": [
+    42643,
+    71488
+   ],
+   "penaltyMs": 0,
+   "at": "2026-10-24T19:26:57.882Z",
+   "version": "0.7.9"
+  },
+  {
    "player": "4bd0d2e71eab0cf9",
    "name": "dev_mode",
    "vehicle": "cinquecento",
