@@ -29,6 +29,19 @@
    "version": "0.6.15"
   },
   {
+   "player": "73e91fa15cac09b0",
+   "name": "Kanalizer",
+   "vehicle": "golf5",
+   "totalMs": 157223,
+   "splits": [
+    52252,
+    87769
+   ],
+   "penaltyMs": 0,
+   "at": "2026-10-24T12:23:10.718Z",
+   "version": "0.7.5"
+  },
+  {
    "player": "eeadc215f0d45e64",
    "name": "KanakDom",
    "vehicle": "gl",
