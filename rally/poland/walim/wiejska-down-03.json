@@ -40,6 +40,19 @@
    "penaltyMs": 0,
    "at": "2026-10-23T18:44:42.387Z",
    "version": "0.7.1"
+  },
+  {
+   "player": "73e91fa15cac09b0",
+   "name": "Kanalizer",
+   "vehicle": "golf5",
+   "totalMs": 150545,
+   "splits": [
+    33477,
+    82866
+   ],
+   "penaltyMs": 0,
+   "at": "2026-10-24T12:30:40.457Z",
+   "version": "0.7.5"
   }
  ]
 }
