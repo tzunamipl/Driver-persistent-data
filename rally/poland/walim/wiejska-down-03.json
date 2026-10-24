@@ -29,6 +29,19 @@
    "version": "0.6.15"
   },
   {
+   "player": "73e91fa15cac09b0",
+   "name": "Kanalizer",
+   "vehicle": "focus-wrc",
+   "totalMs": 122924,
+   "splits": [
+    25532,
+    67927
+   ],
+   "penaltyMs": 0,
+   "at": "2026-10-24T19:09:08.045Z",
+   "version": "0.7.8"
+  },
+  {
    "player": "4bd0d2e71eab0cf9",
    "name": "dev_mode",
    "vehicle": "cinquecento",
