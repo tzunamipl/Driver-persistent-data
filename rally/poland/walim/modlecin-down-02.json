@@ -66,6 +66,19 @@
    "penaltyMs": 0,
    "at": "2026-10-23T18:41:00.996Z",
    "version": "0.7.1"
+  },
+  {
+   "player": "73e91fa15cac09b0",
+   "name": "Kanalizer",
+   "vehicle": "evo6",
+   "totalMs": 126963,
+   "splits": [
+    44575,
+    108229
+   ],
+   "penaltyMs": 0,
+   "at": "2026-10-24T19:30:50.188Z",
+   "version": "0.7.9"
   }
  ]
 }
