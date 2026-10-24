@@ -16,6 +16,19 @@
    "version": "0.6.15"
   },
   {
+   "player": "73e91fa15cac09b0",
+   "name": "Kanalizer",
+   "vehicle": "golf5",
+   "totalMs": 83555,
+   "splits": [
+    31383,
+    65656
+   ],
+   "penaltyMs": 0,
+   "at": "2026-10-24T12:26:48.127Z",
+   "version": "0.7.5"
+  },
+  {
    "player": "4bd0d2e71eab0cf9",
    "name": "dev_mode",
    "vehicle": "impreza-22b",
