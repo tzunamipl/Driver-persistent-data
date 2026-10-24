@@ -31,6 +31,19 @@
   {
    "player": "73e91fa15cac09b0",
    "name": "Kanalizer",
+   "vehicle": "gl",
+   "totalMs": 144784,
+   "splits": [
+    49146,
+    84543
+   ],
+   "penaltyMs": 0,
+   "at": "2026-10-24T19:48:21.898Z",
+   "version": "0.7.10"
+  },
+  {
+   "player": "73e91fa15cac09b0",
+   "name": "Kanalizer",
    "vehicle": "golf5",
    "totalMs": 157223,
    "splits": [
