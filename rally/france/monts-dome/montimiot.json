@@ -1,0 +1,20 @@
+{
+ "stage": "france/monts-dome/montimiot",
+ "fingerprint": "ca5840323cee003b",
+ "entries": [
+  {
+   "player": "73e91fa15cac09b0",
+   "name": "Kanalizer",
+   "vehicle": "C002",
+   "totalMs": 539668,
+   "splits": [
+    87646,
+    197367,
+    342548
+   ],
+   "penaltyMs": 0,
+   "at": "2026-10-26T20:06:58.752Z",
+   "version": "0.7.30"
+  }
+ ]
+}
