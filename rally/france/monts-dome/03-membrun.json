@@ -1,0 +1,19 @@
+{
+ "stage": "france/monts-dome/03-membrun",
+ "fingerprint": "374326b7d1997053",
+ "entries": [
+  {
+   "player": "73e91fa15cac09b0",
+   "name": "Kanalizer",
+   "vehicle": "C002",
+   "totalMs": 671040,
+   "splits": [
+    135346,
+    481328
+   ],
+   "penaltyMs": 0,
+   "at": "2026-10-26T20:26:25.224Z",
+   "version": "0.7.30"
+  }
+ ]
+}
