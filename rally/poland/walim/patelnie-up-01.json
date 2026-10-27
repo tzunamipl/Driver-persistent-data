@@ -5,7 +5,7 @@
   {
    "player": "4bd0d2e71eab0cf9",
    "name": "dev_mode",
-   "vehicle": "impreza-22b",
+   "vehicle": "C010",
    "totalMs": 123935,
    "splits": [
     39243,
@@ -18,7 +18,7 @@
   {
    "player": "4bd0d2e71eab0cf9",
    "name": "dev_mode",
-   "vehicle": "gl",
+   "vehicle": "C002",
    "totalMs": 134456,
    "splits": [
     43729,
@@ -29,9 +29,22 @@
    "version": "0.6.15"
   },
   {
+   "player": "4bd0d2e71eab0cf9",
+   "name": "dev_mode",
+   "vehicle": "C001",
+   "totalMs": 142096,
+   "splits": [
+    40027,
+    74128
+   ],
+   "penaltyMs": 0,
+   "at": "2026-10-27T11:48:25.243Z",
+   "version": "0.7.32"
+  },
+  {
    "player": "73e91fa15cac09b0",
    "name": "Kanalizer",
-   "vehicle": "gl",
+   "vehicle": "C002",
    "totalMs": 144784,
    "splits": [
     49146,
@@ -44,7 +57,7 @@
   {
    "player": "73e91fa15cac09b0",
    "name": "Kanalizer",
-   "vehicle": "golf5",
+   "vehicle": "C005",
    "totalMs": 157223,
    "splits": [
     52252,
@@ -57,7 +70,7 @@
   {
    "player": "eeadc215f0d45e64",
    "name": "KanakDom",
-   "vehicle": "gl",
+   "vehicle": "C002",
    "totalMs": 158650,
    "splits": [
     60164,
@@ -70,7 +83,7 @@
   {
    "player": "73e91fa15cac09b0",
    "name": "Kanalizer",
-   "vehicle": "focus-wrc",
+   "vehicle": "C011",
    "totalMs": 203231,
    "splits": [
     37717,
@@ -83,7 +96,7 @@
   {
    "player": "73e91fa15cac09b0",
    "name": "Kanalizer",
-   "vehicle": "evo6",
+   "vehicle": "C009",
    "totalMs": 233944,
    "splits": [
     42643,
@@ -96,7 +109,7 @@
   {
    "player": "4bd0d2e71eab0cf9",
    "name": "dev_mode",
-   "vehicle": "cinquecento",
+   "vehicle": "C004",
    "totalMs": 3211132,
    "splits": [
     72875,
