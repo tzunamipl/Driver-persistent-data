@@ -1,0 +1,19 @@
+{
+ "stage": "poland/walim/patelnie-up-01~reverse",
+ "fingerprint": "0088e46dd51019d8",
+ "entries": [
+  {
+   "player": "73e91fa15cac09b0",
+   "name": "Kanalizer",
+   "vehicle": "C004",
+   "totalMs": 160079,
+   "splits": [
+    69281,
+    111728
+   ],
+   "penaltyMs": 0,
+   "at": "2026-10-28T18:02:09.564Z",
+   "version": "0.7.39"
+  }
+ ]
+}
