@@ -1,19 +1,19 @@
 {
  "stage": "france/monts-dome/olmet",
- "fingerprint": "6392f63d9c6310a7",
+ "fingerprint": "e220aa5d8d76d245",
  "entries": [
   {
    "player": "73e91fa15cac09b0",
    "name": "Kanalizer",
    "vehicle": "C002",
-   "totalMs": 676117,
+   "totalMs": 1381562,
    "splits": [
-    212148,
-    463617
+    230435,
+    523392
    ],
-   "penaltyMs": 0,
-   "at": "2026-10-26T19:53:31.593Z",
-   "version": "0.7.30"
+   "penaltyMs": 600000,
+   "at": "2026-10-28T21:08:19.289Z",
+   "version": "0.7.40"
   }
  ]
 }
