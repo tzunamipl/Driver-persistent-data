@@ -1,0 +1,19 @@
+{
+ "stage": "poland/walim/wiejska-down-03~reverse",
+ "fingerprint": "fee6307e2fc3c17f",
+ "entries": [
+  {
+   "player": "eeadc215f0d45e64",
+   "name": "KanakDom",
+   "vehicle": "C020",
+   "totalMs": 323065,
+   "splits": [
+    65039,
+    125432
+   ],
+   "penaltyMs": 0,
+   "at": "2026-10-29T19:52:54.189Z",
+   "version": "0.7.43"
+  }
+ ]
+}
