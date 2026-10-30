@@ -5,6 +5,19 @@
   {
    "player": "eeadc215f0d45e64",
    "name": "KanakDom",
+   "vehicle": "C024",
+   "totalMs": 140042,
+   "splits": [
+    65431,
+    108322
+   ],
+   "penaltyMs": 0,
+   "at": "2026-10-30T07:35:00.272Z",
+   "version": "0.7.46"
+  },
+  {
+   "player": "eeadc215f0d45e64",
+   "name": "KanakDom",
    "vehicle": "C020",
    "totalMs": 323065,
    "splits": [
